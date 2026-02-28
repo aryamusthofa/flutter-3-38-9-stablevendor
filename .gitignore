@@ -30,6 +30,7 @@
 .settings/
 .vscode/*
 .ccls-cache
+.env
 
 # This file, on the master branch, should never exist or be checked-in.
 #
